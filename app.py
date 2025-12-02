@@ -1,5 +1,5 @@
 # Install localtunnel to expose the Streamlit app
-!npm install -g localtunnel
+#npm install -g localtunnel
 
 # Run the Streamlit app in the background and expose it using localtunnel
 import subprocess
